@@ -1,11 +1,9 @@
 # projeto_pet
+ Aplicativo de gerenciamento de animais de estimação
 
-A new Flutter module.
 
-## Getting Started
+Alunas Renata Cristina D. Bianchine e Tayná Britney Censi
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
+Professor José Matias Lemes Filho
 
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+USF - Universidade São Francisco
